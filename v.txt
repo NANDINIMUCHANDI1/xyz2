@@ -1,10 +1,22 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #inlcude<stdio.h>
 main()
 {
 	printf("WELCOME TO GIT HUB");
 =======
+=======
+#include<stdio.h>
+main()
+{
+int a=2,b=3;
+int c=a-b;
+printf("%d",c);
+}
+=======
+<<<<<<< HEAD
+>>>>>>> cf46c2dddccdab159c5a8f4820cb30243f2b1c4f
 
 #include<stdio.h>
 int main()
@@ -25,3 +37,4 @@ printf("hello wrold");
 >>>>>>> 3d1c02cbfdd162d0cb59414595b7bd1733831108
 }
 >>>>>>> 3d1c02cbfdd162d0cb59414595b7bd1733831108
+>>>>>>> 262187ca7adcf7ab7abaac478e560aea2650d9c6
