@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 #include<stdio.h>
 int main()
@@ -9,3 +10,10 @@ int main()
      printf("after swapping:a=%d&b=%d",&a,&b);
  }
 
+=======
+#include<stdio.h>
+int main()
+{
+printf("hello wrold");
+}
+>>>>>>> 3d1c02cbfdd162d0cb59414595b7bd1733831108
