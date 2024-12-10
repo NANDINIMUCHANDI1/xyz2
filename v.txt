@@ -1,1 +1,5 @@
-
+#inlcude<stdio.h>
+main()
+{
+	printf("WELCOME TO GIT HUB");
+}
