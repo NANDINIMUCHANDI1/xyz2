@@ -1,8 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #inlcude<stdio.h>
 main()
 {
 	printf("WELCOME TO GIT HUB");
+=======
+
+#include<stdio.h>
+int main()
+{
+     int a=5,b=10;
+     printf("before swapping:a=%d&b=%d",&a,&b);
+     a=b;
+     b=a;
+     printf("after swapping:a=%d&b=%d",&a,&b);
+ }
+
+>>>>>>> 262187ca7adcf7ab7abaac478e560aea2650d9c6
 =======
 #include<stdio.h>
 int main()
@@ -10,3 +24,4 @@ int main()
 printf("hello wrold");
 >>>>>>> 3d1c02cbfdd162d0cb59414595b7bd1733831108
 }
+>>>>>>> 3d1c02cbfdd162d0cb59414595b7bd1733831108
